@@ -1,0 +1,22 @@
+dependencies;
+
+
+*****mobile responsive****
+npm install react-masonry-css
+****backend****
+
+npx @sanity/cli start
+npx @sanity/cli manage
+
+2023-------------------------
+npm install -g @sanity/cli
+npx @sanity/cli init
+cd (folder )npm run dev
+
+****frontend****
+npm install @sanity/client 
+npm install @sanity/image-url 
+npm install framer-motion 
+npm install sass (error---->npm install node-sass) 
+npm install react-icons
+npm install react-tooltip
